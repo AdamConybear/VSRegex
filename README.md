@@ -2,6 +2,14 @@
 
 This is the README for your extension "vsregex". After writing up a brief description, we recommend including the following sections.
 
+## How to run
+1. `npm install` in root
+2. `npm run watch` in root
+3.  f5 to run extension (will open a new window)
+
+## Developer features
+`cmd + r` on mac will reload the extension. To reload webview enter `alt + r`.
+
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
